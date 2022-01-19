@@ -1,0 +1,21 @@
+.button-container {
+    flex: 1 1 auto;
+    text-align: center;
+    margin: 0px 20px 10px;
+    border: var(--button-border);
+    font-size: var(--button-text-size);
+    background-color: rgb(37, 169, 239) !important;  
+    border-color: #011d69;
+    color: #efefef;
+  }
+  
+  .button-container:hover {
+    cursor: pointer;
+    background-color: #011d69 !important;
+  }
+
+.timer-card{
+  box-shadow: 0 0 10px rgb(32, 78, 207);
+  background-color: rgb(255, 255, 255) !important;
+  margin-top: 20px;
+}
